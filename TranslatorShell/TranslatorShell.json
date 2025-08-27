@@ -1,0 +1,12 @@
+{
+  "Author": "Neptune164",
+  "Name": "TranslatorShell",
+  "Punchline": "Real-time translation overlay for FFXIV dialogs.",
+  "Description": "TranslatorShell is a Dalamud plugin that captures in-game NPC dialogue and displays a Chinese translation in a floating overlay.\n\nSlash commands:\n  /tsconfig - Open configuration window.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "translation",
+    "overlay",
+    "chat"
+  ]
+}
